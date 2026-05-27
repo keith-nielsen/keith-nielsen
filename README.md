@@ -2,7 +2,7 @@
 
 **Independent Researcher** · Magnetics · Solar-Terrestrial Physics · AI Governance · Ethics
 
-[![ORCID](https://img.shields.io/badge/ORCID-0000--0000--0000--0000-green?style=flat&logo=orcid)](https://orcid.org/TODO)
+[![ORCID](https://img.shields.io/badge/ORCID-0009-0003-7379-3347-green?style=flat&logo=orcid)](https://orcid.org/0009-0003-7379-3347)
 [![Google Scholar](https://img.shields.io/badge/Google-Scholar-blue?style=flat&logo=googlescholar)](https://scholar.google.com/TODO)
 [![GitHub](https://img.shields.io/github/followers/keith-nielsen?style=social)](https://github.com/keith-nielsen)
 
