@@ -8,7 +8,7 @@
 
 ---
 
-I work across the physical sciences and the governance of intelligent systems. My research spans magnetohydrodynamic modeling of solar-terrestrial interactions, formal frameworks for fair game theory in large-scale governance, and the design of auditable agentic AI systems for high-stakes production environments.
+I work across the physical sciences and the governance of intelligent systems. My research spans solar magnetic forcing of Earth's deep interior, formal frameworks for fair game theory in large-scale governance, and the design of auditable agentic AI systems for high-stakes production environments.
 
 ---
 
@@ -18,7 +18,7 @@ I work across the physical sciences and the governance of intelligent systems. M
 
 | Project | Description | Status |
 |---------|-------------|--------|
-| [**2026-Magnetics-Solar-Forcing-Earth-Magnetohydrodynamics**](https://github.com/keith-nielsen/2026-Magnetics-Solar-Forcing-Earth-Magnetohydrodynamics) | MHD modeling of solar magnetic forcing on Earth's magnetosphere. Reproducible paper + simulation framework. | Active · Paper in prep<br>[![updated](https://img.shields.io/github/last-commit/keith-nielsen/2026-Magnetics-Solar-Forcing-Earth-Magnetohydrodynamics?display_timestamp=committer&label=updated&color=blue)](https://github.com/keith-nielsen/2026-Magnetics-Solar-Forcing-Earth-Magnetohydrodynamics/commits) |
+| [**2026-Magnetics-Solar-Forcing-Earth-Magnetohydrodynamics**](https://github.com/keith-nielsen/2026-Magnetics-Solar-Forcing-Earth-Magnetohydrodynamics) | *The Sun-Earth Energy System* — a unified, cross-disciplinary framework for solar magnetic forcing of Earth's **interior**, synthesizing heliophysics, magnetospheric physics, geodynamics & seismology, with two empirical tests on public data. Markdown-canonical preprint + DOI-verified bibliography + Pandoc build. | Active · Preprint in prep<br>[![updated](https://img.shields.io/github/last-commit/keith-nielsen/2026-Magnetics-Solar-Forcing-Earth-Magnetohydrodynamics?display_timestamp=committer&label=updated&color=blue)](https://github.com/keith-nielsen/2026-Magnetics-Solar-Forcing-Earth-Magnetohydrodynamics/commits) |
 
 ### Artificial Intelligence & Governance
 
@@ -36,6 +36,7 @@ I work across the physical sciences and the governance of intelligent systems. M
 - Magnetohydrodynamics (MHD) and space plasma physics
 - Solar-terrestrial coupling and space weather
 - Geomagnetic field dynamics
+- Geodynamo and core–mantle electromagnetic coupling
 
 **Governance & Ethics**
 - Fair game theory and mechanism design
