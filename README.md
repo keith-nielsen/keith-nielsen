@@ -24,7 +24,7 @@ I work across the physical sciences and the governance of intelligent systems. M
 
 | Project | Description | Status |
 |---------|-------------|--------|
-| [**2026-AI-Value-Memory-Mining**](https://github.com/keith-nielsen/2026-AI-Value-Memory-Mining) | Spec-driven personal knowledge system on the Value Mining methodology — an OpenSpec SDD showcase + forkable Obsidian vault template. Constitutional governance (Informed-Upheaval Protocol), harness-agnostic **spec-as-code runbooks**, a deterministic-first agentic refine pipeline, and forensic provenance (SHA-256/512 + SSH signature + OpenTimestamps/Bitcoin). | Active · v0.1.5 |
+| [**2026-AI-Value-Memory-Mining**](https://github.com/keith-nielsen/2026-AI-Value-Memory-Mining) | Spec-driven personal knowledge system on the Value Mining methodology — an OpenSpec SDD showcase + forkable Obsidian vault template. Constitutional governance (Informed-Upheaval Protocol), harness-agnostic **spec-as-code runbooks**, a deterministic-first agentic refine pipeline, and forensic provenance (SHA-256/512 + SSH signature + OpenTimestamps/Bitcoin). | Active · [![latest release](https://img.shields.io/github/v/release/keith-nielsen/2026-AI-Value-Memory-Mining?sort=semver&display_name=tag&color=2ea44f&label=)](https://github.com/keith-nielsen/2026-AI-Value-Memory-Mining/releases/latest) |
 | [**2026-AI-Harness-Kent**](https://github.com/keith-nielsen/2026-AI-Harness-Kent) | Agentic AI safety harness for high-governance production environments. | In development |
 | **2026-Ethics-Humanities-Society-Game-Theory-Governance** | Fair game theory frameworks for large-scale governance systems — ethics, humanities, and societal implications of algorithmic decision-making. | 🥷 **Stealth mode** · Work in progress |
 
