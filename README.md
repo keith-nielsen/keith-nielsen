@@ -18,7 +18,7 @@ I work across the physical sciences and the governance of intelligent systems. M
 
 | Project | Description | Status |
 |---------|-------------|--------|
-| [**2026-Magnetics-Solar-Forcing-Earth-Magnetohydrodynamics**](https://github.com/keith-nielsen/2026-Magnetics-Solar-Forcing-Earth-Magnetohydrodynamics) | *Sun-Earth Magnetic Coupling* — a unified, cross-disciplinary energy framework for solar forcing of Earth's **interior**, synthesizing heliophysics, magnetospheric physics, geodynamics & seismology, with two empirical tests on public data. Markdown-canonical preprint + DOI-verified bibliography + Pandoc build. | Active · Preprint in prep<br>[![updated](https://img.shields.io/github/last-commit/keith-nielsen/2026-Magnetics-Solar-Forcing-Earth-Magnetohydrodynamics?display_timestamp=committer&label=updated&color=blue)](https://github.com/keith-nielsen/2026-Magnetics-Solar-Forcing-Earth-Magnetohydrodynamics/commits) |
+| [**2026-Sun-Earth-Magnetic-Coupling**](https://github.com/keith-nielsen/2026-Sun-Earth-Magnetic-Coupling) | *Sun-Earth Magnetic Coupling* — a unified, cross-disciplinary energy framework for solar forcing of Earth's **interior**, synthesizing heliophysics, magnetospheric physics, geodynamics & seismology, with two empirical tests on public data. Markdown-canonical preprint + DOI-verified bibliography + Pandoc build. | Active · Preprint in prep<br>[![updated](https://img.shields.io/github/last-commit/keith-nielsen/2026-Sun-Earth-Magnetic-Coupling?display_timestamp=committer&label=updated&color=blue)](https://github.com/keith-nielsen/2026-Sun-Earth-Magnetic-Coupling/commits) |
 
 ### Artificial Intelligence & Governance
 
